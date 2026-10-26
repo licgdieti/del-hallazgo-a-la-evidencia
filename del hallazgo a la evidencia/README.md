@@ -3,7 +3,7 @@
 **Autor:** Gabriel Alejandro Dieticiewicz  
 **Actividad:** Módulo 6 · Metodología de análisis de vulnerabilidades y explotación  
 **Versión:** 1.0 · octubre de 2026  
-**Estado:** Documentación preparada para revisión y publicación en GitHub.
+
 
 ## Propósito
 
